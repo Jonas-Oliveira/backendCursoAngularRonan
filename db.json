@@ -11,6 +11,12 @@
       "validade": "2019-11-12",
       "preco": 120.48,
       "id": 3
+    },
+    {
+      "nome": "Curso de React",
+      "validade": "2022-10-05",
+      "preco": 29.35,
+      "id": 3
     }
   ]
 }
